@@ -12,11 +12,11 @@ npm init
 
 ## content-type 列表
 
-下载 [`content_type_map.json`]("../assets/code/stream-server/content_type_map.json") 文件, 保存到工程根目录下.
+下载 [`content_type_map.json`](../assets/code/stream-server/content_type_map.json) 文件, 保存到工程根目录下.
 
 ## index.js 实现 stream server
 
-下载 [`index.js`]("../assets/code/stream-server/index.js")文件, 覆盖或保存到工程根目录下.
+下载 [`index.js`](../assets/code/stream-server/index.js)文件, 覆盖或保存到工程根目录下.
 
 或
 
